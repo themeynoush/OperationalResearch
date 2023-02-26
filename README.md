@@ -1,2 +1,2 @@
 # githubMike
-IMT M1 Summer exercies
+This is a practice area for some exercies of IMT Atlantique TPs
