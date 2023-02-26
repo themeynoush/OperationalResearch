@@ -1,2 +1,2 @@
 # githubMike
-testing github with Mike
+IMT M1 Summer exercies
